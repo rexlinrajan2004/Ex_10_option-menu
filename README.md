@@ -24,8 +24,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to display animation operation”.
-Developed by: lakshmipriya D
-Registeration Number : 212222040085
+Developed by: REXLIN R
+Registeration Number : 212222220034
 ```
 
 ### activity_main.xml
